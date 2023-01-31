@@ -22,7 +22,12 @@ const HomeScreen = () => {
             }}
             className="h-7 w-7 bg-gray-300 p-4 rounded-full"
           />
+        <View>
+            <Text>Deliver Now!</Text>
+            <Text>Current Location</Text>
         </View>
+        </View>
+
       </Text>
     </SafeAreaView>
   );
